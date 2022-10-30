@@ -1,0 +1,4 @@
+stepDefinitions\LoginSteps.class
+stepDefinitions\MasterHooks.class
+stepDefinitions\SearchBusSteps.class
+runner\TestRunner.class
